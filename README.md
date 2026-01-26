@@ -4,6 +4,6 @@
 
 ## Screenshot
 
-![Comments](assets/images/comments.png)
+![Comments](https://raw.githubusercontent.com/Nabiltaha7/insta/master/assets/images/comments.png)
 
 ![Another Comments](assets/images/another.png)
