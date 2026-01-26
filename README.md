@@ -4,6 +4,6 @@
 
 ## Screenshot
 
-!["Comments](assets/images/comments.png)
+!["Comments"](assets/images/comments.png)
 
-!["Another Comments](assets/images/another.png)
+!["Another Comments"](assets/images/another.png)
