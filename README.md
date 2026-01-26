@@ -4,6 +4,4 @@
 
 ## Screenshot
 
-<p align="center">
-    <img src="assets/images/comments.png" width="300" />
-</p>
+![معاينة التعليقات] (assets/images/comments.png)
