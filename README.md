@@ -4,6 +4,6 @@
 
 ## Screenshot
 
-## Screenshots
-
-<img src="assets/images/comments.png" width="300" />
+<p align="center">
+    <img src="assets/images/comments.png" width="300" />
+</p>
