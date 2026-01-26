@@ -4,4 +4,4 @@
 
 ## Screenshot
 
-![معاينة التعليقات] (assets/images/comments.png)
+![معاينة التعليقات](assets/images/comments.png)
